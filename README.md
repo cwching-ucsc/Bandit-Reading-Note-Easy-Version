@@ -22,6 +22,7 @@ https://arxiv.org/pdf/2205.11913.pdf
 
 The second book (see below) is very well written. I'd suggest reading Chs. 1 and 4 for the basic setting of MAB and Chs. 6 and 7 for some well-known algorithms (e.g., UCB).
 Bandit Algorithms
+
 https://tor-lattimore.com/downloads/book/book.pdf
 
 ## Totoro's related papers:
