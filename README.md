@@ -25,7 +25,7 @@ Bandit Algorithms
 https://tor-lattimore.com/downloads/book/book.pdf
 
 ## Totoro's related papers:
-* [Next-Hop Routing](https://www.dropbox.com/scl/fi/hmbvhy54w1sxlvmywimhi/Adaptive_Opportunistic_Routing_for_Wireless_Ad_Hoc_Networks.pdf?rlkey=43yt7yqfa0wbizialpp3kshye&dl=0)
+* [Next-Hop Routing](https://github.com/cwching-ucsc/Bandit-Reading-Note-Easy-Version/blob/main/Adaptive_Opportunistic_Routing_for_Wireless_Ad_Hoc_Networks.pdf)
     * Totoro made performance comparison to this paper.
 * [End-to-End Routing](https://arxiv.org/pdf/1011.4748.pdf)
     * Totoro made performance comparison to this paper.
