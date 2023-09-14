@@ -20,8 +20,12 @@ The survey paper on DL job scheduling can be found below.
 Deep Learning Workload Scheduling in GPU Datacenters: Taxonomy, Challenges and Vision
 https://arxiv.org/pdf/2205.11913.pdf
 
+The second book (see below) is very well written. I'd suggest reading Chs. 1 and 4 for the basic setting of MAB and Chs. 6 and 7 for some well-known algorithms (e.g., UCB).
+Bandit Algorithms
+https://tor-lattimore.com/downloads/book/book.pdf
+
 ## Totoro's referred papers:
-* [Next-Hop Routing](https://ieeexplore.ieee.org/document/5955086)
+* [Next-Hop Routing](https://www.dropbox.com/scl/fi/hmbvhy54w1sxlvmywimhi/Adaptive_Opportunistic_Routing_for_Wireless_Ad_Hoc_Networks.pdf?rlkey=43yt7yqfa0wbizialpp3kshye&dl=0)
     * Totoro made performance comparison to this paper.
 * [End-to-End Routing](https://arxiv.org/pdf/1011.4748.pdf)
     * Totoro made performance comparison to this paper.
